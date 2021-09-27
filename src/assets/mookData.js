@@ -1,5 +1,6 @@
 export const moviesList = [
   {
+    id: 1,
     title: `The godfather`,
     posterUrl: `https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg`,
     description: `The aging patriarch of an organized crime 
@@ -8,6 +9,7 @@ export const moviesList = [
     rate: 5,
   },
   {
+    id: 2,
     title: `Fight club`,
     posterUrl: `https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg`,
     description: `An insomniac office worker and 
@@ -17,6 +19,7 @@ export const moviesList = [
     rate: 5,
   },
   {
+    id: 3,
     title: `The illusinist`,
     posterUrl: `https://m.media-amazon.com/images/M/MV5BY2VkMzZlZDAtNTkzNS00MDIzLWFmOTctMWQwZjQ1OWJiYzQ1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX700_AL_.jpg`,
     description: `In turn-of-the-century Vienna, 
@@ -25,6 +28,7 @@ export const moviesList = [
     rate: 4,
   },
   {
+    id: 4,
     title: `American History X`,
     posterUrl: `https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg`,
     description: `A former neo-nazi skinhead
